@@ -1,16 +1,93 @@
-## Hi there 👋
+# 👋 Hi, I'm Sherrard Thomas
 
-<!--
-**ThomasTwin1/ThomasTwin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Staff Sergeant in the U.S. Army | 68R Veterinary Food Inspection Specialist
 
-Here are some ideas to get you started:
+I'm a self-taught software developer passionate about building software that solves real problems for Soldiers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to transition into the Army Software Factory (ASWF) and continue developing operational software that improves readiness across the Army.
+
+---
+
+## 🚀 Current Project
+
+### Sentinel
+
+An AI-powered Army Veterinary Services Operations Platform.
+
+Sentinel is designed to modernize food protection operations by supporting:
+
+- Food inspections
+- Food defense
+- Foodborne illness investigations
+- Corrective action tracking
+- Operational dashboards
+- AI-assisted decision support
+
+My long-term vision is to provide Army Veterinary Services with a single platform for managing inspections, investigations, reporting, and risk analysis.
+
+---
+
+## 🛠 Technical Skills
+
+**Languages**
+- Python
+- HTML
+- CSS
+- JavaScript (Learning)
+- SQL (Learning)
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Selenium
+- BeautifulSoup
+
+---
+
+## 📜 Certifications
+
+✅ Python Certified Entry-Level Programmer (PCEP)
+
+📖 CompTIA Security+ (In Progress)
+
+---
+
+## 📌 Featured Projects
+
+### Sentinel
+AI-powered Veterinary Services platform for smarter Army food protection.
+
+### SHARP Decision Game
+Interactive training application focused on leadership decision-making.
+
+### Snake Island
+Python-based story game.
+
+---
+
+## 🎯 Current Goals (2026)
+
+- Build Sentinel MVP
+- Earn CompTIA Security+
+- Improve JavaScript and SQL
+- Learn modern backend development
+- Become a Platform Engineer at Army Software Factory
+
+---
+
+## 📈 Currently Learning
+
+- Backend development
+- REST APIs
+- Databases
+- AI integration
+- Secure software development
+- Cloud fundamentals
+
+---
+
+## 🤝 Let's Connect
+
+GitHub:
+https://github.com/ThomasTwin1
