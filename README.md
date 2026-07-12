@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Sherrard Thomas
 
----
+--- 
 
 ## 🪖 About Me
 
