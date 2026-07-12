@@ -80,15 +80,15 @@ An AI-powered Army Veterinary Services Operations Platform.
 
 ## 📌 Featured Projects
 
-⭐ Sentinel
+### [Sentinel](https://github.com/ThomasTwin1/Sentinel)
 
-AI-powered Army Veterinary Services Platform.
+AI-powered Army Veterinary Services platform.
 
-⭐ SHARP Decision Game
+### [SHARP Decision Game](YOUR_REPOSITORY_LINK)
 
 Leadership decision-making simulator.
 
-⭐ Snake Island
+### [Snake Island](YOUR_REPOSITORY_LINK)
 
 Python adventure game.
 
