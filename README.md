@@ -3,8 +3,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge)
 ![Army](https://img.shields.io/badge/U.S._Army-556B2F?style=for-the-badge)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-In%20Progress-red?style=for-the-badge)
 
 # 👋 Hi, I'm Sherrard Thomas
 
