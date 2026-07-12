@@ -61,7 +61,7 @@ An AI-powered Army Veterinary Services Operations Platform.
 
 ## 📜 Certifications
 
-✅ PCEP
+✅ PCEP- Certified Entry-Level Python Programmer (Python Institute)
 
 📖 CompTIA Security+ (In Progress)
 
