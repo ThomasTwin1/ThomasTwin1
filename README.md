@@ -88,7 +88,7 @@ AI-powered Army Veterinary Services platform.
 
 Leadership decision-making simulator.
 
-### [Snake Island](YOUR_REPOSITORY_LINK)
+### [Snake Island]([YOUR_REPOSITORY_LINK](https://github.com/ThomasTwin1/Snake_Island)
 
 Python adventure game.
 
