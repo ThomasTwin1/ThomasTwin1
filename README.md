@@ -84,7 +84,7 @@ An AI-powered Army Veterinary Services Operations Platform.
 
 AI-powered Army Veterinary Services platform.
 
-### [SHARP Decision Game](YOUR_REPOSITORY_LINK)
+### [SHARP Decision Game](https://github.com/ThomasTwin1/SHARP-Decision-Game)
 
 Leadership decision-making simulator.
 
