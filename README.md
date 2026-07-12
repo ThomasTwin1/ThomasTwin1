@@ -5,7 +5,6 @@
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge)
 ![Army](https://img.shields.io/badge/U.S._Army-556B2F?style=for-the-badge)
 
-# 👋 Hi, I'm Sherrard Thomas
 
 # 👋 Hi, I'm Sherrard Thomas
 
